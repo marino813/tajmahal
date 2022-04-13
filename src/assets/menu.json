@@ -1,0 +1,2008 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "",
+    "addressRegion": "",
+    "postalCode": "",
+    "streetAddress": ""
+    },
+    "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "",
+    "longitude": ""
+    },
+    "name": "",
+    "servesCuisine": [
+
+    "Indian"
+
+
+    ],
+    "hasMenu": [
+
+    {
+        "@type": "Menu",
+        "name": "Main",
+        "hasMenuSection": [
+
+        {
+            "@type": "MenuSection",
+            "name": "Appetizers",
+            "description": "",
+            "hasMenuItem": [
+
+            {
+                "@type": "MenuItem",
+                "name": "Papadum",
+                "description": "A bean wafer, indian crispy bread",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "0.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Samosa (Meat or Vegetable)",
+                "description": "Crisp and spiced patties",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "3.50",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Vegetable Pakora",
+                "description": "Mixed vegetable fritters",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "3.50",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Banana Pakora",
+                "description": "Banana fritters",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "3.50",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Begun Bhaji",
+                "description": "Eggplant fritters",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "3.50",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Sheek Kebab",
+                "description": "Minced meat with onions and herbs roasted on skewers",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "6.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Chana Bhaji",
+                "description": "Fried and spiced chick peas&amp;comma; served with poori",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "6.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Fried Shrimp",
+                "description": "Shrimp cooked bangali style&amp;comma; served with poori",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "8.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Taj Mahal Liver",
+                "description": "Chicken liver sauteed with herbs and spices&amp;comma; served with poori",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "6.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Mushroom Bhaji",
+                "description": "Fresh mushroom pieces tastefully cooked simmered with tomato&amp;comma; served with poori",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "6.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Assorted Indian Hors D'oeuvres (Vegetable or Meat)",
+                "description": "Samosa, pakoras, sheek kebab and papadum served with mint sauce and onion relish",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "6.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            }
+
+            ]
+
+        },
+
+        {
+            "@type": "MenuSection",
+            "name": "Soups",
+            "description": "",
+            "hasMenuItem": [
+
+            {
+                "@type": "MenuItem",
+                "name": "Mulligatawny Soup",
+                "description": "Delicious lentil soup with tomatoes, lemon&amp;comma; herbs and mild indian spices",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "1.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Vegetable Soup",
+                "description": "Mixed fresh vegetable soup with mild indian spices",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "1.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Coconut Soup",
+                "description": "Delicious hot coconut in milk",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "1.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Taj Mahal Soup",
+                "description": "Chicken soup spiced with garlic&amp;comma; ginger&amp;comma; cinnamon&amp;comma; cardamom and some indian herbs",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "2.25",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            }
+
+            ]
+
+        },
+
+        {
+            "@type": "MenuSection",
+            "name": "Indian Breads",
+            "description": "",
+            "hasMenuItem": [
+
+            {
+                "@type": "MenuItem",
+                "name": "Nan",
+                "description": "Unleavened bread baked in the oven",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "1.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Garlic Nan",
+                "description": "Unleavened bread baked with roasted garlic",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "3.25",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Chapati",
+                "description": "Light&amp;comma; unleavened&amp;comma; freshly baked soft bread",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "1.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Paratha",
+                "description": "Layered bread fried in butter",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "1.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Poori",
+                "description": "Puffy bread fried in oil",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "1.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Cheese Poori",
+                "description": "Deep fried poori bread stuffed with cheese",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "3.25",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Aloo Paratha",
+                "description": "Paratha stuffed with mashed and spiced potatoes",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "3.50",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Keema Paratha",
+                "description": "Paratha stuffed with mildly spiced minced meat and peas",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "3.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Mughlai Paratha",
+                "description": "Paratha stuffed with mildly spiced minced meat&amp;comma; peas&amp;comma; eggs&amp;comma; chopped onion and green pepper",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "3.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Onion Kulcha",
+                "description": "Paratha stuffed with mildly spiced chopped onion and peas",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "3.25",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            }
+
+            ]
+
+        },
+
+        {
+            "@type": "MenuSection",
+            "name": "A La Carte - Fresh Vegetable Specialties",
+            "description": "A La Carte Specialties are served with saffron rice&amp;comma; brown rice upon request&amp;comma; dal&amp;comma; cabbage and onion relish",
+            "hasMenuItem": [
+
+            {
+                "@type": "MenuItem",
+                "name": "Mixed Vegetable Curry",
+                "description": "A combination of garden fresh vegetables sauteed in lightly spiced sauce",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "8.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Vegetable Vindaloo",
+                "description": "Highly spiced fresh vegetables cooked in tangy sharp spice",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "9.25",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Saag Paneer",
+                "description": "Spinach and cheese cooked with mild or hot spices",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "9.25",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Matar Ponir",
+                "description": "Green peas and cheese cooked with mild or hot spices",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "9.25",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Chana Saag",
+                "description": "Chick peas and spinach cooked with mild or hot spices",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "9.25",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Vegetable Dhansak",
+                "description": "Combination of fresh mix-vegetable cooked in persian style with lentil and spinach and hot spices",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "9.25",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Bhindi Masala",
+                "description": "Okra cooked with tomatoes&amp;comma; onions and Bengali spices",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "9.25",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Vegetable Kurma",
+                "description": "Cooked in Mughlai style with mild sauces",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "9.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Aloo Gobi Matar",
+                "description": "Potatoes&amp;comma; cauliflower and sweet peas cooked with mild or hot spices",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "9.25",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Chana Masala",
+                "description": "Chick peas cooked with chopped tomatoes mild or hot spices",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "9.25",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Aloo Palak",
+                "description": "Potatoes and spinach tastefully sauteed with herbs and Indian spices",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "9.25",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Malai Kofta",
+                "description": "Mix vegetable balls cooked with creamy mild sauces",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "10.50",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Poneer Tikka Masala",
+                "description": "Poneer cubes cooked with tomato&amp;comma; butter and creamy sauce",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "10.50",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Vegetable Karahi",
+                "description": "Served sizzling",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "10.50",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            }
+
+            ]
+
+        },
+
+        {
+            "@type": "MenuSection",
+            "name": "A La Carte - Chicken Curry Specialties",
+            "description": "A La Carte Specialties are served with saffron rice&amp;comma; brown rice upon request&amp;comma; dal&amp;comma; cabbage and onion relish",
+            "hasMenuItem": [
+
+            {
+                "@type": "MenuItem",
+                "name": "Chicken Curry",
+                "description": "Boneless chicken cooked in mildly spiced sauce",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "9.50",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Chicken Vindaloo",
+                "description": "Chicken cooked with hot pepers&amp;comma; potatoes and highly spiced",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "9.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Chicken Madras",
+                "description": "Chicken cooked with tomatoes and medium hot spices",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "9.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Chicken Saag",
+                "description": "Chicken cooked with spinach and mild spices",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "9.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Chicken Mushroom",
+                "description": "Chicken cooked with mushrooms and mild spices",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "10.50",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Chicken Bhona",
+                "description": "Chicken cooked with chopped onions&amp;comma; tomatoes and green peppers and medium spices",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "9.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Chicken Shahi Kurma",
+                "description": "Chicken cooked in Mughlai style in a mild and creamy sauce",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "10.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Chicken Matar",
+                "description": "Chicken cooked with green peas and tomatoes and mild spices",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "10.50",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Chicken Dhansak",
+                "description": "Chicken cooked in Persian style with lentils and spinach and medium hot spices",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "10.50",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Chicken Bhindi",
+                "description": "Chicken cooked in bhindi (fresh okra) in mildy spiced sauce",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "10.50",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Chicken Shree Mangal",
+                "description": "Chicken cooked with pineapple&amp;comma; almond&amp;comma; sultana and nuts in mild sauce",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "10.50",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Chicken Kashmiri",
+                "description": "Chicken cooked with banana and a creamy mild spices",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "10.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Chicken Sabzi",
+                "description": "Chicken cooked with sabzi fresh vegetables in medium hot sauce",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "10.50",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Chicken Tikka Makhni",
+                "description": "Broiled chicken cooked with tomatoes&amp;comma; butter&amp;comma; almond and coconut and creamy sauce",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "11.50",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Chicken Tikka Masala",
+                "description": "Boneless broiled chicken cubes cooked with green peppers in creamy sauce",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "11.50",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Chicken Karahi",
+                "description": "Served sizzling",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "11.50",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            }
+
+            ]
+
+        },
+
+        {
+            "@type": "MenuSection",
+            "name": "A La Carte - Lamb Curry Specialties",
+            "description": "A La Carte Specialties are served with saffron rice&amp;comma; brown rice upon request&amp;comma; dal&amp;comma; cabbage and onion relish",
+            "hasMenuItem": [
+
+            {
+                "@type": "MenuItem",
+                "name": "Lamb Curry",
+                "description": "Cooked in lightly spiced gravy",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "10.50",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Lamb Vindaloo",
+                "description": "Highly spiced meat cooked with potatoes in a tangy sharp sauce",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "11.50",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Lamb Madras",
+                "description": "Cooked with tomatoes and medium hot spices",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "11.50",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Rogan Josh",
+                "description": "Cubes of gosht lamb cooked with green peppers and in lightly spiced gravy",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "11.50",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Lamb Saag",
+                "description": "Cooked with spinach and fresh Indian spices",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "11.50",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Lamb Bhona",
+                "description": "Cooked with chopped onions&amp;comma; tomatoes&amp;comma; green peppers and medium hot spices",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "11.50",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Lamb Kurma",
+                "description": "Cooked with Mughlai style in mild and creamy sauce",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "11.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Lamb Matar",
+                "description": "Cooked with green peas and tomatoes and mild spices",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "11.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Lamb Dhansak",
+                "description": "Cooked in Persian style with lentil and spinach and medium hot spices",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "11.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Lamb Sabzi",
+                "description": "Succulent pieces of gosht lamb cooked with fresh vegetable in medium hot sauce",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "11.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Lamb Kashmiri",
+                "description": "Cooked with banana creamy and mild spices",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "11.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Lamb Shree Mangal",
+                "description": "Cooked with pineapple&amp;comma; almond&amp;comma; sultana and nuts in mild sauce",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "11.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Lamb Karahi",
+                "description": "Served sizzling",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "12.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            }
+
+            ]
+
+        },
+
+        {
+            "@type": "MenuSection",
+            "name": "A La Carte - Seafood Specialities",
+            "description": "A La Carte Specialties are served with saffron rice&amp;comma; brown rice upon request&amp;comma; dal&amp;comma; cabbage and onion relish",
+            "hasMenuItem": [
+
+            {
+                "@type": "MenuItem",
+                "name": "Shrimp Curry",
+                "description": "Cooked With Green peppers and tomatoes in lightly spiced sauce",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "14.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Crabmeat Curry",
+                "description": "Can be served as vindaloo or with spinach&amp;comma; cooked with tomatoes and mild spices",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "14.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Shrimp Kurma",
+                "description": "Cooked in mughlai style in mild and creamy sauce",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "15.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Shrimp Vindaloo",
+                "description": "Cooked with potatoes in a tangy sharp sauce",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "15.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Shrimp Saag",
+                "description": "Cooked with spinach and tomatoes in delicately spiced sauce",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "15.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Shrimp Matar",
+                "description": "Cooked with green peas and tomatoes and mild spices",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "15.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Shrimp Bengal",
+                "description": "From the bay of bengal&amp;comma; cooked with cream and fastidious sauce",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "15.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Taj Mahal Fish Curry",
+                "description": "Fish of the day cooked in bengali style with precisely spiced gravy",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "15.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Shrimp Bhindi",
+                "description": "Shrimp cooked with fresh okra in medium hot sauce",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "15.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Shrimp Kashmiri",
+                "description": "Cooked with banana creamy and mild spices",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "15.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Shrimp Tandoori Masala",
+                "description": "Broiled shrimp&amp;comma; cooked with green peppers&amp;comma; tomatoes in creamy sauce",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "16.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Shrimp Karahi",
+                "description": "Served sizzling",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "16.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Lobster Curry",
+                "description": "Cooked with tomatoes in medium hot spiced sauce",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "24.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Lobster Chili Masala",
+                "description": "Cooked with onion&amp;comma; green pepper and mild or hot spices",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "25.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            }
+
+            ]
+
+        },
+
+        {
+            "@type": "MenuSection",
+            "name": "A La Carte - Indian Barbeque Served Sizzling",
+            "description": "A La Carte Specialties are served with saffron rice&amp;comma; brown rice upon request&amp;comma; dal&amp;comma; cabbage and onion relish",
+            "hasMenuItem": [
+
+            {
+                "@type": "MenuItem",
+                "name": "Tandoori Chicken",
+                "description": "Spring chicken marinated in yogurt&amp;comma; vinegar&amp;comma; mint&amp;comma; exotic tandoori spices and grilled in the oven",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "11.50",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Chicken Tikka",
+                "description": "Chicken cubes marinated in yogurt&amp;comma; vinegar&amp;comma; mint&amp;comma; exotic Tandoori spices and grilled in the oven",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "11.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Chicken Kebab",
+                "description": "Cubed chicken marinated in mild spices&amp;comma; barbequed on skewers over charcoal",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "11.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Seekh Kebab",
+                "description": "Minced meat with onions and herbs roasted on skewers",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "12.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Rashmi Kebab",
+                "description": "Boneless chicken breast marinated in mild spices&amp;comma; barbequed on skewers over charcoal",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "12.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Tandoori Mixed Grill",
+                "description": "An assortment of Tandoori specialties",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "16.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Lamb Tikka",
+                "description": "Cubes of lamb marinated in yogurt&amp;comma; vinegar&amp;comma; mint&amp;comma; exotic Tandoori spices and grilled in the oven",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "14.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Fish Tandoori",
+                "description": "Fish marinated in yogurt&amp;comma; vinegar&amp;comma; mint&amp;comma; exotic Tandoori spices and grilled in the oven",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "16.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Shrimp Tandoori",
+                "description": "Served sizzling",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "17.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            }
+
+            ]
+
+        },
+
+        {
+            "@type": "MenuSection",
+            "name": "A La Carte - Biryani Specialties",
+            "description": "A La Carte Specialties are served with saffron rice&amp;comma; brown rice upon request&amp;comma; dal&amp;comma; cabbage and onion relish",
+            "hasMenuItem": [
+
+            {
+                "@type": "MenuItem",
+                "name": "Vegetable Biryani",
+                "description": "Long grain rice cooked with onion&amp;comma; tomato&amp;comma; yogurt and milk&amp;comma; mixed with a combination of vegetables",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "10.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Shahjahani Biryani",
+                "description": "Long grain rice flavored with saffron&amp;comma; cooked Mughlai style with boneless chicken&amp;comma; eggs&amp;comma; nuts and 15 exotic spices",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "11.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Chicken Tikka Biryani",
+                "description": "Long grain rice flavored with saffron&amp;comma; cooked Mughlai style with boneless chicken&amp;comma; tikka&amp;comma; eggs&amp;comma; nuts and 15 exotic spices",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "12.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Taj Mahal Biryani",
+                "description": "Long grain rice flavored with saffron&amp;comma; cooked oriental Bengali style with succulent pieces of lamb&amp;comma; eggs&amp;comma; nuts and 20 exotic spices with special recipe",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "12.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Mixed Biryani",
+                "description": "Long grain rice flavored with saffron and cooked with lamb&amp;comma; chicken and vegetables and eggs",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "12.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Shrimp Biryani",
+                "description": "Cooked taj mahal style",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "16.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            }
+
+            ]
+
+        },
+
+        {
+            "@type": "MenuSection",
+            "name": "Tid-Bits",
+            "description": "",
+            "hasMenuItem": [
+
+            {
+                "@type": "MenuItem",
+                "name": "Raita",
+                "description": "Cool whipped yogurt with cucumber&amp;comma; tomatoes and mint",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "1.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Lassi",
+                "description": "Refreshing Indian cold drink made from yogurt and masala sweet or salted",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "1.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Mango Lassi",
+                "description": "Refreshing Indian cold drink made from yogurt and fresh mango",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "2.50",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Yogurt",
+                "description": "Homemade",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "1.75",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Taj Mahal Salad",
+                "description": "Indian style mixed salad",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "3.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            }
+
+            ]
+
+        },
+
+        {
+            "@type": "MenuSection",
+            "name": "Condiments",
+            "description": "",
+            "hasMenuItem": [
+
+            {
+                "@type": "MenuItem",
+                "name": "Sweet Mango Chutney",
+                "description": "",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "1.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Lemon Pickle",
+                "description": "Hot and spicy",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "1.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Mango Pickle",
+                "description": "Hot and spicy",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "1.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            }
+
+            ]
+
+        },
+
+        {
+            "@type": "MenuSection",
+            "name": "Homemade Bengali Desserts",
+            "description": "",
+            "hasMenuItem": [
+
+            {
+                "@type": "MenuItem",
+                "name": "Rasmalai",
+                "description": "Made from fresh homemade cottage cheese in sweetened milk served cold with pistachios",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "2.25",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Gulabjaman",
+                "description": "Made with dry milk and cottage cheese balls deep fried and dipped in sugar syrup and rose water",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "2.25",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Firni",
+                "description": "Indian style rose water flavored custard pudding",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "2.25",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Mango Ice Cream",
+                "description": "",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "2.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Kulfi",
+                "description": "Homemade style ice cream with pistachio&amp;comma; saffron and nuts",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "2.95",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            }
+
+            ]
+
+        },
+
+        {
+            "@type": "MenuSection",
+            "name": "Beverages",
+            "description": "",
+            "hasMenuItem": [
+
+            {
+                "@type": "MenuItem",
+                "name": "Tea or Coffee",
+                "description": "",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "1.25",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Indian Spice Tea",
+                "description": "",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "1.25",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Iced Tea",
+                "description": "",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "1.50",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Iced Coffee",
+                "description": "",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "1.50",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            },
+
+            {
+                "@type": "MenuItem",
+                "name": "Soft Drinks",
+                "description": "",
+                "offers": [
+
+                {
+                    "@type": "Offer",
+                    "Price": "1.50",
+                    "priceCurrency": "USD"
+                }
+
+                ]
+
+            }
+
+            ]
+
+        }
+
+        ]
+    }
+
+    ],
+    "priceRange": "$$",
+    "openingHours": "",
+    "telephone": "",
+    "url": "https://www.allmenus.com/ny/brooklyn/52513-taj-mahal-indian-restaurant/menu/"
+}
