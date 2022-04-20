@@ -132,7 +132,7 @@
             {
                 "@type": "MenuItem",
                 "name": "Chana Bhaji",
-                "description": "Fried and spiced chick peas&amp;comma; served with poori",
+                "description": "Fried and spiced chick peas, served with poori",
                 "offers": [
 
                 {
@@ -148,7 +148,7 @@
             {
                 "@type": "MenuItem",
                 "name": "Fried Shrimp",
-                "description": "Shrimp cooked bangali style&amp;comma; served with poori",
+                "description": "Shrimp cooked bangali style, served with poori",
                 "offers": [
 
                 {
@@ -164,7 +164,7 @@
             {
                 "@type": "MenuItem",
                 "name": "Taj Mahal Liver",
-                "description": "Chicken liver sauteed with herbs and spices&amp;comma; served with poori",
+                "description": "Chicken liver sauteed with herbs and spices, served with poori",
                 "offers": [
 
                 {
@@ -180,7 +180,7 @@
             {
                 "@type": "MenuItem",
                 "name": "Mushroom Bhaji",
-                "description": "Fresh mushroom pieces tastefully cooked simmered with tomato&amp;comma; served with poori",
+                "description": "Fresh mushroom pieces tastefully cooked simmered with tomato, served with poori",
                 "offers": [
 
                 {
@@ -222,7 +222,7 @@
             {
                 "@type": "MenuItem",
                 "name": "Mulligatawny Soup",
-                "description": "Delicious lentil soup with tomatoes, lemon&amp;comma; herbs and mild indian spices",
+                "description": "Delicious lentil soup with tomatoes, lemon, herbs and mild indian spices",
                 "offers": [
 
                 {
@@ -270,7 +270,7 @@
             {
                 "@type": "MenuItem",
                 "name": "Taj Mahal Soup",
-                "description": "Chicken soup spiced with garlic&amp;comma; ginger&amp;comma; cinnamon&amp;comma; cardamom and some indian herbs",
+                "description": "Chicken soup spiced with garlic, ginger, cinnamon, cardamom and some indian herbs",
                 "offers": [
 
                 {
@@ -328,7 +328,7 @@
             {
                 "@type": "MenuItem",
                 "name": "Chapati",
-                "description": "Light&amp;comma; unleavened&amp;comma; freshly baked soft bread",
+                "description": "Light, unleavened, freshly baked soft bread",
                 "offers": [
 
                 {
@@ -424,7 +424,7 @@
             {
                 "@type": "MenuItem",
                 "name": "Mughlai Paratha",
-                "description": "Paratha stuffed with mildly spiced minced meat&amp;comma; peas&amp;comma; eggs&amp;comma; chopped onion and green pepper",
+                "description": "Paratha stuffed with mildly spiced minced meat, peas, eggs, chopped onion and green pepper",
                 "offers": [
 
                 {
@@ -460,7 +460,7 @@
         {
             "@type": "MenuSection",
             "name": "A La Carte - Fresh Vegetable Specialties",
-            "description": "A La Carte Specialties are served with saffron rice&amp;comma; brown rice upon request&amp;comma; dal&amp;comma; cabbage and onion relish",
+            "description": "A La Carte Specialties are served with saffron rice, brown rice upon request, dal, cabbage and onion relish",
             "hasMenuItem": [
 
             {
@@ -562,7 +562,7 @@
             {
                 "@type": "MenuItem",
                 "name": "Bhindi Masala",
-                "description": "Okra cooked with tomatoes&amp;comma; onions and Bengali spices",
+                "description": "Okra cooked with tomatoes, onions and Bengali spices",
                 "offers": [
 
                 {
@@ -594,7 +594,7 @@
             {
                 "@type": "MenuItem",
                 "name": "Aloo Gobi Matar",
-                "description": "Potatoes&amp;comma; cauliflower and sweet peas cooked with mild or hot spices",
+                "description": "Potatoes, cauliflower and sweet peas cooked with mild or hot spices",
                 "offers": [
 
                 {
@@ -658,7 +658,7 @@
             {
                 "@type": "MenuItem",
                 "name": "Poneer Tikka Masala",
-                "description": "Poneer cubes cooked with tomato&amp;comma; butter and creamy sauce",
+                "description": "Poneer cubes cooked with tomato, butter and creamy sauce",
                 "offers": [
 
                 {
@@ -694,7 +694,7 @@
         {
             "@type": "MenuSection",
             "name": "A La Carte - Chicken Curry Specialties",
-            "description": "A La Carte Specialties are served with saffron rice&amp;comma; brown rice upon request&amp;comma; dal&amp;comma; cabbage and onion relish",
+            "description": "A La Carte Specialties are served with saffron rice, brown rice upon request, dal, cabbage and onion relish",
             "hasMenuItem": [
 
             {
@@ -716,7 +716,7 @@
             {
                 "@type": "MenuItem",
                 "name": "Chicken Vindaloo",
-                "description": "Chicken cooked with hot pepers&amp;comma; potatoes and highly spiced",
+                "description": "Chicken cooked with hot pepers, potatoes and highly spiced",
                 "offers": [
 
                 {
@@ -780,7 +780,7 @@
             {
                 "@type": "MenuItem",
                 "name": "Chicken Bhona",
-                "description": "Chicken cooked with chopped onions&amp;comma; tomatoes and green peppers and medium spices",
+                "description": "Chicken cooked with chopped onions, tomatoes and green peppers and medium spices",
                 "offers": [
 
                 {
@@ -860,7 +860,7 @@
             {
                 "@type": "MenuItem",
                 "name": "Chicken Shree Mangal",
-                "description": "Chicken cooked with pineapple&amp;comma; almond&amp;comma; sultana and nuts in mild sauce",
+                "description": "Chicken cooked with pineapple, almond, sultana and nuts in mild sauce",
                 "offers": [
 
                 {
@@ -908,7 +908,7 @@
             {
                 "@type": "MenuItem",
                 "name": "Chicken Tikka Makhni",
-                "description": "Broiled chicken cooked with tomatoes&amp;comma; butter&amp;comma; almond and coconut and creamy sauce",
+                "description": "Broiled chicken cooked with tomatoes, butter, almond and coconut and creamy sauce",
                 "offers": [
 
                 {
@@ -960,7 +960,7 @@
         {
             "@type": "MenuSection",
             "name": "A La Carte - Lamb Curry Specialties",
-            "description": "A La Carte Specialties are served with saffron rice&amp;comma; brown rice upon request&amp;comma; dal&amp;comma; cabbage and onion relish",
+            "description": "A La Carte Specialties are served with saffron rice, brown rice upon request, dal, cabbage and onion relish",
             "hasMenuItem": [
 
             {
@@ -1046,7 +1046,7 @@
             {
                 "@type": "MenuItem",
                 "name": "Lamb Bhona",
-                "description": "Cooked with chopped onions&amp;comma; tomatoes&amp;comma; green peppers and medium hot spices",
+                "description": "Cooked with chopped onions, tomatoes, green peppers and medium hot spices",
                 "offers": [
 
                 {
@@ -1142,7 +1142,7 @@
             {
                 "@type": "MenuItem",
                 "name": "Lamb Shree Mangal",
-                "description": "Cooked with pineapple&amp;comma; almond&amp;comma; sultana and nuts in mild sauce",
+                "description": "Cooked with pineapple, almond, sultana and nuts in mild sauce",
                 "offers": [
 
                 {
@@ -1178,7 +1178,7 @@
         {
             "@type": "MenuSection",
             "name": "A La Carte - Seafood Specialities",
-            "description": "A La Carte Specialties are served with saffron rice&amp;comma; brown rice upon request&amp;comma; dal&amp;comma; cabbage and onion relish",
+            "description": "A La Carte Specialties are served with saffron rice, brown rice upon request, dal, cabbage and onion relish",
             "hasMenuItem": [
 
             {
@@ -1200,7 +1200,7 @@
             {
                 "@type": "MenuItem",
                 "name": "Crabmeat Curry",
-                "description": "Can be served as vindaloo or with spinach&amp;comma; cooked with tomatoes and mild spices",
+                "description": "Can be served as vindaloo or with spinach, cooked with tomatoes and mild spices",
                 "offers": [
 
                 {
@@ -1280,7 +1280,7 @@
             {
                 "@type": "MenuItem",
                 "name": "Shrimp Bengal",
-                "description": "From the bay of bengal&amp;comma; cooked with cream and fastidious sauce",
+                "description": "From the bay of bengal, cooked with cream and fastidious sauce",
                 "offers": [
 
                 {
@@ -1344,7 +1344,7 @@
             {
                 "@type": "MenuItem",
                 "name": "Shrimp Tandoori Masala",
-                "description": "Broiled shrimp&amp;comma; cooked with green peppers&amp;comma; tomatoes in creamy sauce",
+                "description": "Broiled shrimp, cooked with green peppers, tomatoes in creamy sauce",
                 "offers": [
 
                 {
@@ -1392,7 +1392,7 @@
             {
                 "@type": "MenuItem",
                 "name": "Lobster Chili Masala",
-                "description": "Cooked with onion&amp;comma; green pepper and mild or hot spices",
+                "description": "Cooked with onion, green pepper and mild or hot spices",
                 "offers": [
 
                 {
@@ -1412,13 +1412,13 @@
         {
             "@type": "MenuSection",
             "name": "A La Carte - Indian Barbeque Served Sizzling",
-            "description": "A La Carte Specialties are served with saffron rice&amp;comma; brown rice upon request&amp;comma; dal&amp;comma; cabbage and onion relish",
+            "description": "A La Carte Specialties are served with saffron rice, brown rice upon request, dal, cabbage and onion relish",
             "hasMenuItem": [
 
             {
                 "@type": "MenuItem",
                 "name": "Tandoori Chicken",
-                "description": "Spring chicken marinated in yogurt&amp;comma; vinegar&amp;comma; mint&amp;comma; exotic tandoori spices and grilled in the oven",
+                "description": "Spring chicken marinated in yogurt, vinegar, mint, exotic tandoori spices and grilled in the oven",
                 "offers": [
 
                 {
@@ -1434,7 +1434,7 @@
             {
                 "@type": "MenuItem",
                 "name": "Chicken Tikka",
-                "description": "Chicken cubes marinated in yogurt&amp;comma; vinegar&amp;comma; mint&amp;comma; exotic Tandoori spices and grilled in the oven",
+                "description": "Chicken cubes marinated in yogurt, vinegar, mint, exotic Tandoori spices and grilled in the oven",
                 "offers": [
 
                 {
@@ -1450,7 +1450,7 @@
             {
                 "@type": "MenuItem",
                 "name": "Chicken Kebab",
-                "description": "Cubed chicken marinated in mild spices&amp;comma; barbequed on skewers over charcoal",
+                "description": "Cubed chicken marinated in mild spices, barbequed on skewers over charcoal",
                 "offers": [
 
                 {
@@ -1482,7 +1482,7 @@
             {
                 "@type": "MenuItem",
                 "name": "Rashmi Kebab",
-                "description": "Boneless chicken breast marinated in mild spices&amp;comma; barbequed on skewers over charcoal",
+                "description": "Boneless chicken breast marinated in mild spices, barbequed on skewers over charcoal",
                 "offers": [
 
                 {
@@ -1514,7 +1514,7 @@
             {
                 "@type": "MenuItem",
                 "name": "Lamb Tikka",
-                "description": "Cubes of lamb marinated in yogurt&amp;comma; vinegar&amp;comma; mint&amp;comma; exotic Tandoori spices and grilled in the oven",
+                "description": "Cubes of lamb marinated in yogurt, vinegar, mint, exotic Tandoori spices and grilled in the oven",
                 "offers": [
 
                 {
@@ -1530,7 +1530,7 @@
             {
                 "@type": "MenuItem",
                 "name": "Fish Tandoori",
-                "description": "Fish marinated in yogurt&amp;comma; vinegar&amp;comma; mint&amp;comma; exotic Tandoori spices and grilled in the oven",
+                "description": "Fish marinated in yogurt, vinegar, mint, exotic Tandoori spices and grilled in the oven",
                 "offers": [
 
                 {
@@ -1566,13 +1566,13 @@
         {
             "@type": "MenuSection",
             "name": "A La Carte - Biryani Specialties",
-            "description": "A La Carte Specialties are served with saffron rice&amp;comma; brown rice upon request&amp;comma; dal&amp;comma; cabbage and onion relish",
+            "description": "A La Carte Specialties are served with saffron rice, brown rice upon request, dal, cabbage and onion relish",
             "hasMenuItem": [
 
             {
                 "@type": "MenuItem",
                 "name": "Vegetable Biryani",
-                "description": "Long grain rice cooked with onion&amp;comma; tomato&amp;comma; yogurt and milk&amp;comma; mixed with a combination of vegetables",
+                "description": "Long grain rice cooked with onion, tomato, yogurt and milk, mixed with a combination of vegetables",
                 "offers": [
 
                 {
@@ -1588,7 +1588,7 @@
             {
                 "@type": "MenuItem",
                 "name": "Shahjahani Biryani",
-                "description": "Long grain rice flavored with saffron&amp;comma; cooked Mughlai style with boneless chicken&amp;comma; eggs&amp;comma; nuts and 15 exotic spices",
+                "description": "Long grain rice flavored with saffron, cooked Mughlai style with boneless chicken, eggs, nuts and 15 exotic spices",
                 "offers": [
 
                 {
@@ -1604,7 +1604,7 @@
             {
                 "@type": "MenuItem",
                 "name": "Chicken Tikka Biryani",
-                "description": "Long grain rice flavored with saffron&amp;comma; cooked Mughlai style with boneless chicken&amp;comma; tikka&amp;comma; eggs&amp;comma; nuts and 15 exotic spices",
+                "description": "Long grain rice flavored with saffron, cooked Mughlai style with boneless chicken, tikka, eggs, nuts and 15 exotic spices",
                 "offers": [
 
                 {
@@ -1620,7 +1620,7 @@
             {
                 "@type": "MenuItem",
                 "name": "Taj Mahal Biryani",
-                "description": "Long grain rice flavored with saffron&amp;comma; cooked oriental Bengali style with succulent pieces of lamb&amp;comma; eggs&amp;comma; nuts and 20 exotic spices with special recipe",
+                "description": "Long grain rice flavored with saffron, cooked oriental Bengali style with succulent pieces of lamb, eggs, nuts and 20 exotic spices with special recipe",
                 "offers": [
 
                 {
@@ -1636,7 +1636,7 @@
             {
                 "@type": "MenuItem",
                 "name": "Mixed Biryani",
-                "description": "Long grain rice flavored with saffron and cooked with lamb&amp;comma; chicken and vegetables and eggs",
+                "description": "Long grain rice flavored with saffron and cooked with lamb, chicken and vegetables and eggs",
                 "offers": [
 
                 {
@@ -1678,7 +1678,7 @@
             {
                 "@type": "MenuItem",
                 "name": "Raita",
-                "description": "Cool whipped yogurt with cucumber&amp;comma; tomatoes and mint",
+                "description": "Cool whipped yogurt with cucumber, tomatoes and mint",
                 "offers": [
 
                 {
@@ -1890,7 +1890,7 @@
             {
                 "@type": "MenuItem",
                 "name": "Kulfi",
-                "description": "Homemade style ice cream with pistachio&amp;comma; saffron and nuts",
+                "description": "Homemade style ice cream with pistachio, saffron and nuts",
                 "offers": [
 
                 {
