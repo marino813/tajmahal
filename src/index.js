@@ -16,7 +16,8 @@ menuButton.addEventListener("click", function(){
 
 orderButton.addEventListener("click", function(){
     const menuSection = document.getElementById('menuSection');    
-    menuSection.remove();
+    
+    if (menuSection){ menuSection.remove() }
 
     contactButton.disabled = false;
     menuButton.disabled = false; 
@@ -24,9 +25,10 @@ orderButton.addEventListener("click", function(){
 });
 
 contactButton.addEventListener("click", function(){
-    const menuSection = document.getElementById('menuSection');    
-    menuSection.remove();
-    
+    const menuSection = document.getElementById('menuSection');
+        
+    if (menuSection){ menuSection.remove() }
+
     contactButton.disabled = true;
     menuButton.disabled = false; 
     orderButton.disabled = false; 

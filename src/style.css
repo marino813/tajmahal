@@ -57,6 +57,7 @@ p {
     font-family: 'Jost', sans-serif;
     font-size: 27px;
     font-variant: all-small-caps;
+    margin-bottom: 25px;
 }
 
 .menu-items {
@@ -79,5 +80,48 @@ p {
     text-align: left;
     font-family: 'Jost', sans-serif;
     font-style: italic;
+}
+
+.button-52 {
+    font-size: 30px;
+    font-variant: all-small-caps;
+    font-family: 'Anton', sans-serif;
+    letter-spacing: 1px;
+    padding: 13px 20px 13px;
+    outline: 0;
+    border: 2px solid black;
+    cursor: pointer;
+    position: relative;
+    background-color: rgba(0, 0, 0, 0);
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+
+.button-52:after {
+    content: "";
+    background-color: wheat;
+    width: 100%;
+    z-index: -1;
+    position: absolute;
+    height: 100%;
+    top: 7px;
+    left: 7px;
+    transition: 0.2s;
+}
+
+.button-52:disabled {
+    color: red;
+}
+
+.button-52:hover:after {
+    top: 0px;
+    left: 0px;
+}
+
+@media (min-width: 768px) {
+    .button-52 {
+    padding: 13px 50px 13px;
+    }
 }
 
